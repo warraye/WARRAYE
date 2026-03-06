@@ -9,24 +9,7 @@ I build creative automatic Bots with AI as assistance .
 ---
 
 ### 🔭 I’m currently working on
-- 🗣️ **Speak & Use** — an AI-powered English learning app that helps users *listen, practice, and use new words daily* (React + Firebase + OpenAI)
-- ⚙️ **AI-Enhanced Templates** — digital productivity kits that automate creativity for Etsy entrepreneurs and content creators  
-- 🧠 **Prompt Engineering Experiments** — building optimized prompts and workflows for image generation (Midjourney, Leonardo.ai) and text automation (ChatGPT API)
-
----
-
-### 🌱 I’m currently learning
-- **Advanced Prompt Engineering:** structuring effective multimodal prompts for image, video, and text generation  
-- **Cybersecurity & Network Defense:** risk management, access control, and ethical hacking fundamentals  
-- **AI App Integration:** connecting ChatGPT API, Firebase, and front-end interfaces  
-- **UI/UX design principles:** building intuitive learning experiences  
-
----
-
-### 👯 I’m looking to collaborate on
-- AI-powered **language learning** or **education tools**  
-- Open-source **prompt libraries** and **automation templates**  
-- Projects that merge **AI + creativity + security awareness**  
+- A Foot Ball Betting Bot
 
 ---
 
