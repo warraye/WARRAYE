@@ -10,24 +10,6 @@ I build creative automatic Bots with AI as assistance .
 
 ### 🔭 I’m currently working on
 - A Foot Ball Betting Bot
-
----
-
-### 🤔 I’m looking for help with
-- Fine-tuning AI responses for user-friendly education tools  
-- Optimizing app deployment on **Vercel** and **Firebase Hosting**  
-- Building backend infrastructure for **scalable AI-based apps**
-
----
-
-### 💬 Ask me about
-- 🎨 **Prompt Engineering** — building structured, high-impact prompts for AI tools   
-- 🧩 **AI App Development** — integrating APIs with clean UI/UX  
-- 💼 **Digital Product Automation** — using AI to build and sell knowledge-based templates  
-- 💰 **Budgeting Tools** — simple finance automation for creators  
-
-> 💡 If you need a specific prompt for AI art, video, product automation, or for anything **just ask me** — I can help you engineer it for your exact goal.
-
 ---
 
 ### 📫 How to reach me
@@ -36,26 +18,12 @@ I build creative automatic Bots with AI as assistance .
 - **GitHub:** [github.com/warraye](https://github.com/warraye)
 
 ---
-
-### 😄 Pronouns
-He/Him  
-
----
-
-### ⚡ Fun fact
-I discovered my passion for **prompt engineering** while experimenting with Midjourney and ChatGPT to build real-world products — an English-learning AI app and a fantasy pet art.
----
-
 ### 🧠 Skills
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks:** React, Node.js  
-- **Databases:** Firebase, MongoDB  
-- **AI Tools:** ChatGPT, Midjourney, Leonardo.ai, Kittl AI  
+- **Languages:**Python
+- **Frameworks:** React, Node.js    
+- **AI Tools:** ChatGPT, Claude AI  
 - **Core Skills:**  
-  - Prompt Engineering (text, visual, and multimodal)  
-  - AI Workflow Design  
-  - Cybersecurity Fundamentals  
-  - UI/UX Design  
+  - Prompt Engineering (text,)  
 
 ---
 
