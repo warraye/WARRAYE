@@ -2,9 +2,9 @@
 
 # 👋 Hi, I’m warraye 
 
-### 💻 AI & App Developer | Prompt Engineer | Cybersecurity Enthusiast  
+### 💻 Bot Automation Enthusiasts
 
-I build creative tools that help people **learn smarter, work faster, and communicate better** — powered by **AI**, clean code, and **prompt engineering** precision.
+I build creative automatic Bots with AI as assistance .
 
 ---
 
